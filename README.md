@@ -1,4 +1,4 @@
-# Hey, I'm Erick 👋
+# Hey, I'm Erick
 
 **Senior Frontend Developer · AI-Native Engineer · Creator of [No-JS.dev](https://no-js.dev)**
 
@@ -8,14 +8,14 @@ Senior Frontend Developer with **20+ years** shipping scalable SaaS to global te
 
 🇧🇷 🇵🇹 Dual citizen (Brazil & Portugal) · EU passport holder · available for European remote roles **without sponsorship**
 
-## 🚀 What I Ship
+## What I Ship
 
 - **HTML-first reactive UIs** — full dynamic behavior via HTML attributes alone, no build step, no dependencies
 - **AI-native development** — Claude Skills & multi-step Agents for code review, QA, sprint planning, and docs
 - **Enterprise frontend architecture** — Angular, RxJS, NgRx patterns adopted across engineering teams
 - **Test-driven confidence** — Playwright E2E + Jest suites that cut regressions and de-risk releases
 
-## 🏆 Highlighted Work
+## Highlighted Work
 
 **[No-JS.dev](https://no-js.dev)** — solo-authored, open-source (MIT) reactive framework. ~30 KB gzipped, 230+ features: data binding, routing, state management, forms, animations, i18n, drag-and-drop, and custom directives. **Zero JavaScript, zero build, zero dependencies.** 230+ community reactions at launch.
 
@@ -23,7 +23,7 @@ Senior Frontend Developer with **20+ years** shipping scalable SaaS to global te
 
 **[CData / Data Virtuality](https://www.cdata.com)** — frontend architecture for an enterprise data virtualization SaaS serving global clients, with full Playwright coverage across multiple product lines over 5+ years.
 
-## 💼 Experience
+## Experience
 
 - **Senior Frontend Developer** @ Data Virtuality / CData Software — *Mar 2020–Dec 2025* (acquired by CData, 2024)
 - **Frontend Developer (Consultant)** @ Zydax Consulting — *2019–2020*
@@ -32,7 +32,7 @@ Senior Frontend Developer with **20+ years** shipping scalable SaaS to global te
 - **Team Lead · Frontend & Unity3D** @ Acotel (Rio / NYC / Rome) — *2013–2016*
 - **Frontend & PHP Backend Developer** @ Personare, WeShow & others — *2005–2013*
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ![Claude](https://img.shields.io/badge/Claude-191919?style=flat&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
@@ -56,15 +56,15 @@ Senior Frontend Developer with **20+ years** shipping scalable SaaS to global te
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-## 🌍 Languages
+## Languages
 
 **Portuguese** → Native · **English** → Full professional proficiency
 
-## 🎓 Education
+## Education
 
 **B.Tech, Information Technology** — Universidade Veiga de Almeida, 2002
 
-## 📫 Let's Connect
+## Let's Connect
 
 [![Website](https://img.shields.io/badge/exs.dev-000?style=for-the-badge&logo=safari&logoColor=white)](https://exs.dev)
 [![No-JS.dev](https://img.shields.io/badge/no--js.dev-FF6B00?style=for-the-badge&logo=html5&logoColor=white)](https://no-js.dev)
@@ -73,4 +73,4 @@ Senior Frontend Developer with **20+ years** shipping scalable SaaS to global te
 
 ---
 
-💼 **Open to:** European remote roles (EU passport, no sponsorship needed) · Building [No-JS.dev](https://no-js.dev) in the open
+**Open to:** European remote roles (EU passport, no sponsorship needed) · Building [No-JS.dev](https://no-js.dev) in the open
