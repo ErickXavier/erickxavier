@@ -4,33 +4,33 @@
 
 > Everyone's adding JavaScript. I built a reactive framework that needs none.
 
-Senior Frontend Developer with **20+ years** shipping scalable SaaS to global teams. Creator of **No-JS.dev** — an HTML-first reactive framework with zero JavaScript, zero build step, and zero dependencies. Deep in Angular/RxJS/NgRx with serious automated testing, and building daily with Claude Skills, AI Agents, and the Anthropic API — while keeping full ownership of every architecture decision.
+Senior Frontend Developer with **20+ years** shipping scalable SaaS to global teams. Creator of **No-JS.dev**, an HTML-first reactive framework with zero JavaScript, zero build step, and zero dependencies. Deep in Angular/RxJS/NgRx with serious automated testing, and building daily with Claude Skills, AI Agents, and the Anthropic API, while keeping full ownership of every architecture decision.
 
 🇧🇷 🇵🇹 Dual citizen (Brazil & Portugal) · EU passport holder · available for European remote roles **without sponsorship**
 
 ## What I Ship
 
-- **HTML-first reactive UIs** — full dynamic behavior via HTML attributes alone, no build step, no dependencies
-- **AI-native development** — Claude Skills & multi-step Agents for code review, QA, sprint planning, and docs
-- **Enterprise frontend architecture** — Angular, RxJS, NgRx patterns adopted across engineering teams
-- **Test-driven confidence** — Playwright E2E + Jest suites that cut regressions and de-risk releases
+- **HTML-first reactive UIs**: full dynamic behavior via HTML attributes alone, no build step, no dependencies
+- **AI-native development**: Claude Skills & multi-step Agents for code review, QA, sprint planning, and docs
+- **Enterprise frontend architecture**: Angular, RxJS, NgRx patterns adopted across engineering teams
+- **Test-driven confidence**: Playwright E2E + Jest suites that cut regressions and de-risk releases
 
 ## Highlighted Work
 
-**[No-JS.dev](https://no-js.dev)** — solo-authored, open-source (MIT) reactive framework. ~30 KB gzipped, 230+ features: data binding, routing, state management, forms, animations, i18n, drag-and-drop, and custom directives. **Zero JavaScript, zero build, zero dependencies.** 230+ community reactions at launch.
+**[No-JS.dev](https://no-js.dev)**: solo-authored, open-source (MIT) reactive framework. ~30 KB gzipped, 230+ features: data binding, routing, state management, forms, animations, i18n, drag-and-drop, and custom directives. **Zero JavaScript, zero build, zero dependencies.** 230+ community reactions at launch.
 
-**AI Developer Tooling** — Claude Skills & multi-step Agents for software development workflows. AI-powered web apps on the Anthropic API with multi-turn conversation, structured JSON outputs, and tool use. Runs open-weight models locally (Gemma, Llama via Ollama) for self-hosted agent frameworks.
+**AI Developer Tooling**: Claude Skills & multi-step Agents for software development workflows. AI-powered web apps on the Anthropic API with multi-turn conversation, structured JSON outputs, and tool use. Runs open-weight models locally (Gemma, Llama via Ollama) for self-hosted agent frameworks.
 
-**[CData / Data Virtuality](https://www.cdata.com)** — frontend architecture for an enterprise data virtualization SaaS serving global clients, with full Playwright coverage across multiple product lines over 5+ years.
+**[CData / Data Virtuality](https://www.cdata.com)**: frontend architecture for an enterprise data virtualization SaaS serving global clients, with full Playwright coverage across multiple product lines over 5+ years.
 
 ## Experience
 
-- **Senior Frontend Developer** @ Data Virtuality / CData Software — *Mar 2020–Dec 2025* (acquired by CData, 2024)
-- **Frontend Developer (Consultant)** @ Zydax Consulting — *2019–2020*
-- **Frontend Developer** @ Mobicare — *2018–2019* — consent portals for Oi & Claro serving millions daily
-- **Frontend Developer (Consultant)** @ Freelance (US clients) — *2016–2017*
-- **Team Lead · Frontend & Unity3D** @ Acotel (Rio / NYC / Rome) — *2013–2016*
-- **Frontend & PHP Backend Developer** @ Personare, WeShow & others — *2005–2013*
+- **Senior Frontend Developer** @ Data Virtuality / CData Software · *Mar 2020–Dec 2025* (acquired by CData, 2024)
+- **Frontend Developer (Consultant)** @ Zydax Consulting · *2019–2020*
+- **Frontend Developer** @ Mobicare · *2018–2019* · consent portals for Oi & Claro serving millions daily
+- **Frontend Developer (Consultant)** @ Freelance (US clients) · *2016–2017*
+- **Team Lead · Frontend & Unity3D** @ Acotel (Rio / NYC / Rome) · *2013–2016*
+- **Frontend & PHP Backend Developer** @ Personare, WeShow & others · *2005–2013*
 
 ## Tech Stack
 
@@ -62,7 +62,7 @@ Senior Frontend Developer with **20+ years** shipping scalable SaaS to global te
 
 ## Education
 
-**B.Tech, Information Technology** — Universidade Veiga de Almeida, 2002
+**B.Tech, Information Technology** · Universidade Veiga de Almeida, 2002
 
 ## Let's Connect
 
