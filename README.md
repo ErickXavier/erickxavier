@@ -1,6 +1,6 @@
 # Hey, I'm Erick 👋
 
-**Senior Frontend Developer · AI-Native Engineer · Creator of [No-JS.dev](https://no-js.dev) (230+ reactions at launch)**
+**Senior Frontend Developer · AI-Native Engineer · Creator of [No-JS.dev](https://no-js.dev)**
 
 > Everyone's adding JavaScript. I built a reactive framework that needs none.
 
